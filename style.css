@@ -5,7 +5,11 @@ body {
 
 .container {
 	width: 100%;
+<<<<<<< HEAD
 	max-width: 100%;
+=======
+	max-width: 1100px;
+>>>>>>> c3bd0003eba9000354d8389d76b1f1c3215869b0
 }
 
 #top {
